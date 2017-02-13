@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.god.network&apos; to &apos;com.god.network.sample.tcp&apos;&#x0A;- Original project: &apos;Chapter12&apos;&#x0A;- Original element: &apos;Chapter12/src/com.god.network&apos;&#x0A;- Renamed element: &apos;Chapter12/src/com.god.network.sample.tcp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.god.network&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.god.network" name="com.god.network.sample.tcp" qualified="false" references="true" stamp="1486993778752" textual="false" version="1.0"/>
+</session>

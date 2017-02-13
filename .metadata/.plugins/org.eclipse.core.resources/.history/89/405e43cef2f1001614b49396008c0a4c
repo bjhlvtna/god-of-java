@@ -1,0 +1,15 @@
+package com.god.network;
+
+public class SocketClientSample {
+
+	public static void main(String[] args) {
+
+	}
+	
+	public void sendSocketSample() {
+		for (int loop=0 ; loop<3 ; loop++) {
+			
+		}
+	}
+
+}
